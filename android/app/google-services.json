@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54287963236",
+    "project_id": "suut-yaax",
+    "storage_bucket": "suut-yaax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54287963236:android:d6f6fd70bc7938a3e03b71",
+        "android_client_info": {
+          "package_name": "com.yosustentable.suutyaax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54287963236-4tjdb1hsb5oeoo4scm2sp0rm8i2b0us0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZ8Jj8Us-ajbYARWmeX-MgnasFKPAbzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54287963236-4tjdb1hsb5oeoo4scm2sp0rm8i2b0us0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

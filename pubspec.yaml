@@ -1,0 +1,40 @@
+name: suutyaax
+description: Suut Yá'ax Aplicacion
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^3.0.0
+  shared_preferences: ^2.0.6
+  firebase_core: ^1.3.0
+  firebase_database: ^7.1.1
+  cloud_firestore: ^2.2.2
+  sqflite: ^2.0.0+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/bosque1.png
+    - assets/bosque2.png
+    - assets/bosque4.png
+    - assets/bosque6.png
+    - assets/Compartomisustentabilidad.png
+    - assets/fondologin.png
+    - assets/logo.png
+    - assets/Mitrabajosustentable.png
+    - assets/Mitransportesustentable.png
+    - assets/Mividasustentable.png
